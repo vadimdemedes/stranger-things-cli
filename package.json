@@ -1,6 +1,6 @@
 {
 	"name": "stranger-things-cli",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "CLI for generating random Stranger Things words",
 	"license": "MIT",
 	"repository": "vadimdemedes/stranger-things-cli",
